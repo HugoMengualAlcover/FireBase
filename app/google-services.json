@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824045335764",
+    "project_id": "fir-41df3",
+    "storage_bucket": "fir-41df3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824045335764:android:09529f6ab5d663cb227741",
+        "android_client_info": {
+          "package_name": "com.hugomengualalcover.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824045335764-j5q027n9oo0tb7t8ss48larfl2g724kg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWvAT2-EkLDEwke90mpPwaJv96zry_JBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824045335764-j5q027n9oo0tb7t8ss48larfl2g724kg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
